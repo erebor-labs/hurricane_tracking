@@ -21,7 +21,7 @@ You can install the feedparser library using pip:
 2. Ensure you have the required feedparser library installed.
 3. Run the script:
 
-```python hurrican_tracking.py```
+```python hurricane_tracking.py```
 
 
 ## Example

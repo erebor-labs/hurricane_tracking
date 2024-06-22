@@ -58,7 +58,6 @@ if __name__ == '__main__':
 	main()
 ```
 	
-	- The script uses the feedparser library to parse the RSS feed from the given URL.
-	- It retrieves the title and description of the first entry in the feed.
-	- It removes HTML line break tags from the description for better readability.
-	- It prints the title and cleaned description to the console.
+- The script uses the feedparser library to parse the RSS feed from the given URL.
+- It retrieves the title and description of the first entry in the feed.	- It removes HTML line break tags from the description for better readability.
+- It prints the title and cleaned description to the console.
